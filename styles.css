@@ -1,0 +1,20 @@
+:root {
+  --color-teal-500: #1D957F;
+  --color-blue-accent-200: #4285F4;
+  --color-grey-700: #616161;
+  --color-grey-50: #FAFBFD;
+  --color-white: #FFFFFF;
+
+  --font-size-smallest: 9px;
+  --font-size-smaller: 11px;
+  --font-size-small: 12px;
+  --font-size-normal: 16px;
+  --font-size-big: 36px;
+  --font-size-biggest: 44px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
